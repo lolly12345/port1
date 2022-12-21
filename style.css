@@ -1,0 +1,36 @@
+h1{
+    color:rgb(173, 81, 81)
+}
+
+
+.header{
+    background-color: antiquewhite;
+}
+
+.navigation{
+    background-color: rgb(203, 169, 233);
+    display:flex;
+    justify-content:flex-end
+}
+
+.footer{
+    display: flex;
+    justify-content:flex-end
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border:solid;
+
+
+}
+.item{
+    border:solid
+}
+
+body{
+background-color: #e1daf6;
+border:solid;
+}
